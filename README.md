@@ -37,6 +37,9 @@ buying them from the marketplace. Using their credentials through our applicatio
 smart contract verifies the user's information, such as access rights, through the mapping stored in 
 the blockchain. After data verification, the smart contract decides whether they are be able to do 
 some transactions or not
+![alt text](https://github.com/belkhiriAh/product-authentication-dapp/blob/main/Overview/1.jpeg?raw=true)
+![alt text](https://github.com/belkhiriAh/product-authentication-dapp/blob/main/Overview/2.jpeg?raw=true)
+
 
 
 ## terminal instruction
