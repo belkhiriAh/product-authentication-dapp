@@ -40,25 +40,25 @@ some transactions or not
 
 
 ## terminal instruction
-windows:
-py -m pip install --user virtualenv
-python -m venv venv
-venv\Scripts\activate.bat
-Unix/macOS:
-python3 -m pip install --user virtualenv
-source myvenv/bin/activate
+windows: <br />
+py -m pip install --user virtualenv <br />
+python -m venv venv <br />
+venv\Scripts\activate.bat <br />
+Unix/macOS: <br />
+python3 -m pip install --user virtualenv <br />
+source myvenv/bin/activate <br />
 
-then:
-pip install -r requirements.txt
+then: <br />
+pip install -r requirements.txt <br />
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-new terminal :
-truffle migrate --rest     
-cd my-app
-yarn install
-yarn start
+python manage.py makemigrations <br />
+python manage.py migrate  <br />
+python manage.py runserver  <br />
+new terminal :  <br />
+truffle migrate --rest      <br />
+cd my-app  <br />
+yarn install  <br />
+yarn start  <br />
 
 
 
